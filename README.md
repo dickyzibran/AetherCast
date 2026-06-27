@@ -6,6 +6,10 @@ A modern weather dashboard built with React.js that displays real-time weather i
 
 ## Preview
 
+<a href="https://dickyzibran.github.io/AetherCast/" target="_blank">
+  Click here to view
+</a>
+
 ![alt text](image-1.png)
 
 ---
